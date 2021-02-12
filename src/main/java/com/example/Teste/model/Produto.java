@@ -16,5 +16,4 @@ public class Produto {
     private String nome;
     private String autor;
     private String imagem;
-
 }
